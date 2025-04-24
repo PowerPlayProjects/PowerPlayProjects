@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Bienvenido a PowerPlayProjects
 
-<!--
-**PowerPlayProjects/PowerPlayProjects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Hola! Soy Alberto, la persona detrás de **PowerPlayProjects**.  
+Aquí combino mi pasión por la tecnología, la automatización y el hockey sobre hielo 🏒💻.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 ¿Qué encontrarás aquí?
+- **Aplicaciones de gestión deportiva** (especialmente hockey 🏒)
+- **Automatización de tareas** y herramientas útiles
+- Proyectos personales de desarrollo web y escritorio
+- Scripts para mejorar la productividad
+
+---
+
+## 🔧 Proyectos Destacados
+- **Hockey Manager App**: Aplicación para la gestión de entrenamientos y equipos.
+- **Examinador Z**: Herramienta para generar y corregir exámenes en PDF.
+- *(Pronto más...)*
+
+---
+
+## 📫 Contacto
+Si quieres saber más o colaborar:
+
+- ✉️ powerplayprojects@gmail.com
+
+---
+
+> _"Transformando ideas en código, siempre en **Power Play**."_ 😄
