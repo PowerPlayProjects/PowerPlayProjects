@@ -23,7 +23,7 @@ Aquí combino mi pasión por la tecnología, la automatización y el hockey sobr
 ## 📫 Contacto
 Si quieres saber más o colaborar:
 
-- ✉️ powerplayprojects@gmail.com
+- ✉️ powerplayprojects.dev@gmail.com
 
 ---
 
